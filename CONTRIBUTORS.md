@@ -4,3 +4,4 @@
  - Ben Saller
  - Matt Bruzek
  - Whit Morriss
+ - Arseniy Tashoyan
