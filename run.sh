@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+## TODO: Remove after updating Charming Dockerfile
 ## commented out for now until further work on lxc
 #/patchcontainer.sh
 #brctl addbr lxcbr0
